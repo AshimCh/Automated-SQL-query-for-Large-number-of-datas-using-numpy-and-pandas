@@ -1,0 +1,30 @@
+INSERT into Tablename(id ,name ,address ,phone)
+Values(1,sam,Makwanpur,1231234)
+
+INSERT into Tablename(id ,name ,address ,phone)
+Values(2,grinch,Kavrepalanchok,234234)
+
+INSERT into Tablename(id ,name ,address ,phone)
+Values(3,flash,Gorkha,234523523)
+
+INSERT into Tablename(id ,name ,address ,phone)
+Values(4,Prem Sagar Shah,Kavrepalanchok,121242134)
+
+INSERT into Tablename(id ,name ,address ,phone)
+Values(5,Shivanath Shaha,Sindhuli,345345345)
+
+INSERT into Tablename(id ,name ,address ,phone)
+Values(6,Rakesh Mallick,Dolakha,3464356456)
+
+INSERT into Tablename(id ,name ,address ,phone)
+Values(7,Rakesh Mallick,Dolakha,34523523)
+
+INSERT into Tablename(id ,name ,address ,phone)
+Values(8,Abhishek Dangol,Kathmandu,234234234)
+
+INSERT into Tablename(id ,name ,address ,phone)
+Values(9,Abhishek Dangol,Kathmandu,346435634)
+
+INSERT into Tablename(id ,name ,address ,phone)
+Values(10,Rahulk Katuwal,Kathmandu,325234234)
+
